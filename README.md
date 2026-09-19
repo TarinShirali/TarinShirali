@@ -16,11 +16,12 @@
 
 ###
 
-<p align="left">I started programming and Android development about a year ago. I began with Java, became familiar with code execution environments, and followed a project-based approach to gain practical experience. Two months ago I started learning Kotlin and have been advancing it professionally with the goal of becoming an expert. As an early-career developer, I share the small and large projects I work on here and continually strive to improve my skills and expand my knowledge. I am passionate about learning and embracing challenges. My goal is to enter the job market and build large-scale, professional Android applications. I want to collaborate with companies of all sizes as well as with both novice and experienced individuals to learn, gain hands-on experience, and continuously improve myself so I can grow and get better every day.</p>
+<p align="left">I am an early-career Android developer focused on building practical applications and continuously improving my development skills. I started my programming journey with Java and Android development, learning through hands-on practice and project-based development. I later started learning Kotlin and am currently expanding my knowledge of Kotlin and the Android ecosystem. I use this GitHub profile to share the projects I build throughout my learning journey, from small practice projects to more complex applications. Each project gives me an opportunity to apply what I learn, solve problems, explore new ideas, and improve my approach to software development. My goal is to become a professional Android developer and build large-scale, reliable, and well-structured applications. I am looking to gain real-world experience, collaborate with development teams, contribute to meaningful projects, and learn from developers with different levels of experience. I am continuously working to expand my knowledge, strengthen my technical skills, and become a better developer through every project I build.</p>
 
 ###
 
-<p align="left">Strengths :<br>Curious; hardworking; team-oriented; fast learner; strong analytical and critical-thinking skills; detail-oriented; punctual; excellent research skills; problem-solving; creative; time management; energetic and proactive.<br><br>Weaknesses:<br>Limited professional experience; early in my career; relatively few practical projects to date.</p>
+<p align="left">Strengths :<br>Curious and eager to learn; fast learner; hardworking and proactive; analytical and detail-oriented; strong research and problem-solving skills; creative and open to new approaches; team-oriented; good time management; persistent when facing challenges.</p>
+
 
 ###
 
