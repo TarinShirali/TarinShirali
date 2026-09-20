@@ -16,11 +16,38 @@
 
 ###
 
-<p align="left">I am an early-career Android developer focused on building practical applications and continuously improving my development skills. I started my programming journey with Java and Android development, learning through hands-on practice and project-based development. I later started learning Kotlin and am currently expanding my knowledge of Kotlin and the Android ecosystem. I use this GitHub profile to share the projects I build throughout my learning journey, from small practice projects to more complex applications. Each project gives me an opportunity to apply what I learn, solve problems, explore new ideas, and improve my approach to software development. My goal is to become a professional Android developer and build large-scale, reliable, and well-structured applications. I am looking to gain real-world experience, collaborate with development teams, contribute to meaningful projects, and learn from developers with different levels of experience. I am continuously working to expand my knowledge, strengthen my technical skills, and become a better developer through every project I build.</p>
+<h2>About Me</h2>
 
-###
+<p align="left">
+I am an early-career Android developer focused on building practical applications and continuously improving my development skills.
+I started my programming journey with Java and Android development, learning through hands-on practice and project-based development.
+I later started learning Kotlin and am currently expanding my knowledge of Kotlin and the Android ecosystem.
+</p>
 
-<p align="left">Strengths :<br>Curious and eager to learn; fast learner; hardworking and proactive; analytical and detail-oriented; strong research and problem-solving skills; creative and open to new approaches; team-oriented; good time management; persistent when facing challenges.</p>
+<p align="left">
+I use this GitHub profile to share the projects I build throughout my learning journey, from small practice projects to more complex applications.
+Each project gives me an opportunity to apply what I learn, solve problems, explore new ideas, and improve my approach to software development.
+</p>
+
+<h2>Technical Focus</h2>
+
+<p align="left">
+Android Development · Kotlin · Java · Object-Oriented Programming · Problem Solving · Software Development
+</p>
+
+<h2>Goals</h2>
+
+<p align="left">
+My goal is to become a professional Android developer and build large-scale, reliable, and well-structured applications.
+I am looking to gain real-world experience, collaborate with development teams, contribute to meaningful projects, and learn from developers with different levels of experience.
+</p>
+
+<h2>Strengths</h2>
+
+<p align="left">
+Curious and eager to learn · Fast learner · Hardworking and proactive · Analytical and detail-oriented · Strong research and problem-solving skills · Creative and open to new approaches · Team-oriented · Good time management · Persistent when facing challenges
+</p>
+
 
 
 ###
